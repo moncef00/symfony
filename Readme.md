@@ -15,7 +15,7 @@ It is possible also to run on VM linux (I recommend this option)
 # Getting started
 You have just to clone this repository on your virtual machine
 
-    git clone https://github.com/mtrimech/symfony-docker-varnish my_project
+    git clone https://github.com/moncef00/symfony my_project
     
 # Run
     
